@@ -1,4 +1,4 @@
-# furniture-warehouse-course-project
+# bedclothes-and-dishes-warehouse-course-project
 
 
 
